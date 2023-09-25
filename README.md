@@ -4,9 +4,12 @@
 Samantha Barbey, Kevin Deng, and Clayton Langdon
 
 #### Challenge:
-The instructions for this mini project are divided into the following subsections:
+Create an ETL pipelin using the following Exel resource: https://github.com/kdeng-rutgers-bootcamp/rutgers-project-2/blob/main/Resources/crowdfunding.xlsx
 
+Challenge consists of: 
 * Create the Category and Subcategory DataFrames
+    - Pandas DataFrames were created in Jupyter notebook from the resource Excel file.
+    - THe DataFrames we exported 
 
 * Create the Campaign DataFrame
 
