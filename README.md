@@ -4,7 +4,7 @@
 Samantha Barbey, Kevin Deng, and Clayton Langdon
 
 #### Challenge:
-Create an ETL pipelin using the following Exel resource: https://github.com/kdeng-rutgers-bootcamp/rutgers-project-2/blob/main/Resources/crowdfunding.xlsx
+Create an ETL pipeline using the following Exel resource: https://github.com/kdeng-rutgers-bootcamp/rutgers-project-2/blob/main/Resources/crowdfunding.xlsx
 
 Challenge consists of: 
 * Create the Category and Subcategory DataFrames
